@@ -3,7 +3,7 @@
 # Date/Time: спонсор @TAOBAOTESH
 # Количество: 124
 # For more info and VPN-configs - visit: VPNTAOBAO
-vless://ec9e886e-f3ca-4d9d-a7щ47-bf5cb5a882bc@171.22.136.84:8443?type=ws&encryption=none&path=/test&host=play.google.com&security=none#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus%2C%20Nicosia%20%7C%20%5BBL%5D
+vless://ec9e886e-f3ca-4d9d-a7щ47-bf5cb5a882bc@171.22.136.84:8443?type=ws&encryption=none&path=/test&host=play.google.com&security=none#%F0%9F%87%A8%F0%9F%87%BE%20🇵🇲🪭СПОНСОР@TAOBAOTESH%2C%20TAOBAOVPNОЧЕНЬ МАЛЕНЬКИЙ ПИНГ🪭%20%7C%20%5BBL%5D
 vless://a2415a12-3f92-4636-9823-9828d3ceb818@103.119.18.32:8443?type=tcp&security=reality&pbk=4sm4mUC0igscX3gHfsxD2b0F6bimVQf_M6w2ZvV7QW8&fp=firefox&sni=www.ya.ru&sid=39f0#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%2C%20Prague%20%7C%20%5BBL%5D
 vless://a2415a12-3f92-4636-9823-9828d3ceb818@103.119.19.179:8443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=vo6Xrwkla8OBS5O6lEinNvHXxW8DxCmb8HGHD86VzkU&sid=0e&sni=www.google.com#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%2C%20Prague%20%7C%20%5BBL%5D
 vless://a2415a12-3f92-4636-9823-9828d3ceb818@103.119.19.179:8443?type=tcp&security=reality&pbk=vo6Xrwkla8OBS5O6lEinNvHXxW8DxCmb8HGHD86VzkU&fp=firefox&sni=www.google.com&sid=0e#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%2C%20Prague%20%7C%20%5BBL%5D
